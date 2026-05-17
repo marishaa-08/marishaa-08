@@ -1,8 +1,8 @@
 # 💫 About Me:
-I operate at the confluence of logic and curiosity, where questions are valued as much as answers.<br><br>With Python as my instrument, I approach Machine Learning not merely as a technical discipline, but as a lens to interpret patterns, decisions, and the subtle intelligence embedded within data.<br><br>My current focus lies in cultivating a rigorous foundation in ML, engaging with data experimentally, and continuously sharpening the way I conceptualize problems.<br><br>I don’t just construct code—I interrogate what it signifies.<br><br>Training models, while refining the architecture of my own thinking.
+I operate at the confluence of logic and curiosity, where questions are valued as much as answers.<br><br>With Python as my instrument, I approach AI Learning not merely as a technical discipline, but as a lens to interpret patterns, decisions, and the subtle intelligence embedded within data.<br><br>My current focus lies in cultivating a rigorous foundation in AI, engaging with data experimentally, and continuously sharpening the way I conceptualize problems.<br><br>I don’t just construct code—I interrogate what it signifies.<br><br>Training models, while refining the architecture of my own thinking.
 
 
-Python | Machine Learning | Statistical Learning | Feature Engineering | Predictive Analytics
+Python | AI/ML Learning | Statistical Learning | Feature Engineering | Predictive Analytics
 
 
 ## 🌐 Socials:
